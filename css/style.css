@@ -113,6 +113,11 @@ body {
     flex-direction: column;   
 }
 
+.titulo span {
+    margin-left: 6rem;
+    font-size: 3.5rem;
+}
+
 .tenebrio-molitor {
     position: relative;
     margin-left: 2rem;
@@ -126,6 +131,7 @@ body {
 
 .informativo {
     margin-top: -230px;
+    text-align: justify;
 }
 
 .img-tenebrio {
@@ -137,6 +143,11 @@ body {
 
 .img-tenebrio img {
     width: 100%;
+}
+
+.consideracoes-finais {
+    text-align: justify;
+    padding: 10px;
 }
 
 @media only screen and (max-width: 768px) {
