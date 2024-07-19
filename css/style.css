@@ -150,6 +150,40 @@ body {
     padding: 10px;
 }
 
+#FrassEspecial {
+    list-style-type: decimal;
+}
+
+#FrassBeneficios {
+    style=" list-style: none;"
+}
+
+#FrassBeneficios li{
+    display: flex;
+    align-items: center;
+}
+
+#FrassBeneficios li img{
+    margin-right: 5px;
+}
+
+p + ul, h4 + ul {
+    margin-top: -20px;
+}
+
+h3 > img {
+    height: 30px;
+}
+
+.emoji {
+    font-size: 0.9rem;
+    margin: 0px 5px;
+}
+
+.flex {
+    display: flex;
+}
+
 @media only screen and (max-width: 768px) {
     /* Estilos para dispositivos móveis */
     body {
