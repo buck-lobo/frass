@@ -118,7 +118,7 @@ body {
     font-size: 3.5rem;
 }
 
-.tenebrio-molitor {
+.frass {
     position: relative;
     margin-left: 2rem;
 }
@@ -199,7 +199,7 @@ h3 > img {
     .img-tenebrio + p {
         margin-top: -150px;
     }
-    .tenebrio-molitor {
+    .frass {
         margin-left: 0.2rem;
         margin-right: 0.2rem;
     }
